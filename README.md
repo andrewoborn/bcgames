@@ -1,6 +1,8 @@
 # bcgames
 Proof of concept games inside Business Central
+
 Purchase Invoice page: Tetris!
+
 Fixed Asset record card: Sudoku
 
 Learning resource on control addins: https://simplanova.com/blog/step-by-step-guide-to-javascript-control-add-in/
